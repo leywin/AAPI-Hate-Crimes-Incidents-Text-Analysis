@@ -1,4 +1,4 @@
-# AAPI-Hate-Crimes-Incidents-Text-Analysis-using-Twitter
+# AAPI-Hate-Crimes-and-Incidents-Text-Analysis
 
 APSTA-GE 2047 Messy Data and Machine Learning Final Project Spring 2021 
 
